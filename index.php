@@ -13,7 +13,7 @@
     </form>
     <input onclick="showResult()" value="save" type="button">
 
-    <p id="p1"></p>
+    <h2 id="p1"></h2>
     <script>
         function showResult(){
             let n1 = document.getElementById("n1").value;
