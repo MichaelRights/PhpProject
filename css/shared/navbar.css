@@ -1,0 +1,23 @@
+.cart-item {
+    border: solid 1px tan;
+    padding: 3px 0;
+    margin: 0 3px;
+    font-size: 0.7rem;
+}
+.cut-text { 
+    text-overflow: ellipsis;
+    overflow: hidden; 
+    width: 60px; 
+    white-space: nowrap;
+  }
+  .cut-text-long { 
+    text-overflow: ellipsis;
+    overflow: hidden; 
+    width: 10rem; 
+    white-space: nowrap;
+  }
+.cart-item-img  {
+    padding: 0 4px;
+    height: 30px;
+    width: 28px;
+}
