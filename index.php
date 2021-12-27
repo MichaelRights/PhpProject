@@ -1,5 +1,5 @@
 <?php
-    if (!isset($_COOKIE["iD"])) {
+    if (!isset($_COOKIE["id"])) {
         header("Location: /login.html");
         exit();
     } else {
