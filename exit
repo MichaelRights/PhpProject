@@ -1,0 +1,65 @@
+[33mcommit fdb35aaf7de6a94caa5b0be4517ed86f82049121[m[33m ([m[1;36mHEAD -> [m[1;32manun[m[33m, [m[1;31morigin/anun[m[33m)[m
+Merge: 04556f2 19c51c9
+Author: MichaelRights <melkumyan94@gmail.com>
+Date:   Sun Dec 19 11:01:00 2021 -0800
+
+    merged
+
+[33mcommit 04556f21fa27761ea8575eb2f2602683da3a8187[m
+Author: MichaelRights <melkumyan94@gmail.com>
+Date:   Sun Dec 19 11:00:06 2021 -0800
+
+    login and store
+
+[33mcommit 6073236f8ca17ff772167274b5a37a76d1021cda[m
+Author: MichaelRights <melkumyan94@gmail.com>
+Date:   Fri Dec 17 10:29:48 2021 -0800
+
+    id changed
+
+[33mcommit 19c51c98b97aa0db884b34c5e3778970ab286f32[m
+Merge: 6073236 87bf094
+Author: Vladimir Melkumyan <53300286+MichaelRights@users.noreply.github.com>
+Date:   Thu Dec 16 23:19:48 2021 -0800
+
+    Merge branch 'master' into anun
+
+[33mcommit 87bf094b320a6c735a56ff34604d508cf8ce498b[m
+Author: Vladimir Melkumyan <53300286+MichaelRights@users.noreply.github.com>
+Date:   Thu Dec 16 22:22:08 2021 -0800
+
+    Update index.php
+
+[33mcommit 57148e93d091680c8e9e343234137fb2db170c78[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: 446179b c0b4cac
+Author: Vladimir Melkumyan <53300286+MichaelRights@users.noreply.github.com>
+Date:   Sun Nov 28 04:29:56 2021 -0800
+
+    Merge pull request #1 from MichaelRights/anun
+    
+    h1
+
+[33mcommit c0b4cace4ead01b6939640bf41e6bce262ad4361[m
+Merge: 011aef5 446179b
+Author: Vladimir Melkumyan <53300286+MichaelRights@users.noreply.github.com>
+Date:   Sun Nov 28 04:29:43 2021 -0800
+
+    Merge branch 'master' into anun
+
+[33mcommit 446179b14ea3998ffb9c54a768e04ab761873954[m
+Author: MichaelRight <melkumyan94@gmail.com>
+Date:   Sun Nov 28 16:15:36 2021 +0400
+
+    h2
+
+[33mcommit 011aef5f07d2f9983e1ee19d71785230757bfa80[m
+Author: MichaelRight <melkumyan94@gmail.com>
+Date:   Sun Nov 28 16:14:21 2021 +0400
+
+    h1
+
+[33mcommit d746ca4105e138262f2964a365988f2237a2ebc2[m
+Author: MichaelRight <melkumyan94@gmail.com>
+Date:   Sun Nov 28 16:07:49 2021 +0400
+
+    first

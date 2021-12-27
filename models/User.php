@@ -19,7 +19,7 @@ class User {
         $this->lastName = $lastName;
         $this->age = $age;
         $this->cart = [];
-        $this->books = [];
+        $this->books = [1,3];
     }
 
 

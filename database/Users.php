@@ -43,6 +43,15 @@ class Users {
         return $user->cart;
     }
 
+    public static function getBooksOfUser($id) {
+        $books = [];
+        $user = self::getUserById($id);
+        foreach ($user->books as $bookId) {
+            array_push($books,Books::getBookById($bookId));
+        }
+        return $books;
+    }
+
     public static function addToCart($id, $bookId) {
         $user = self::getUserById($id);
         $book = clone Books::getBookById($bookId);
