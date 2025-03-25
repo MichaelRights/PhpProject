@@ -1,2 +1,8 @@
 #!/bin/bash
-sudo apt install php libapache2-mod-php
+sudo yum install php
+sudo yum install php-mbstring
+sudo yum install php-intl
+
+# add this later
+# curl -s https://getcomposer.org/installer | php
+# mv composer.phar ~/.local/bin/composer
