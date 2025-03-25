@@ -2,7 +2,7 @@
 yum -y install php
 yum -y install php-mbstring
 yum -y install php-intl
-yum -y install apache2
+yum -y install httpd
 
 # add this later
 # curl -s https://getcomposer.org/installer | php
