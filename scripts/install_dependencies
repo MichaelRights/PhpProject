@@ -1,5 +1,5 @@
 #!/bin/bash
-yum -y install php libapache2-mod-php8.1
+yum -y install php httpd
 
 # add this later
 # curl -s https://getcomposer.org/installer | php
